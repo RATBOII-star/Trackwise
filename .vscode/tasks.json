@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "TRACKWISE: php spark serve",
+            "type": "shell",
+            "command": "php spark serve --host localhost --port 8080",
+            "options": {
+                "cwd": "${workspaceFolder}/codeigniter4-framework-e7753bc"
+            },
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated"
+            }
+        }
+    ]
+}

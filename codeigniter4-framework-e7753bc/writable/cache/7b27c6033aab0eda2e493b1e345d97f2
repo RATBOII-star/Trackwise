@@ -1,0 +1,203 @@
+a:3:{s:4:"time";i:1780200334;s:3:"ttl";i:300;s:4:"data";s:8807:"a:4:{s:7:"headers";a:6:{s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:15:"X-Frame-Options";s:10:"SAMEORIGIN";s:22:"X-Content-Type-Options";s:7:"nosniff";s:18:"X-Download-Options";s:6:"noopen";s:33:"X-Permitted-Cross-Domain-Policies";s:4:"none";s:15:"Referrer-Policy";s:11:"same-origin";}s:6:"output";s:8447:"<!-- DEBUG-VIEW START 5 APPPATH\Views\trackwise\analytics\index.php -->
+<!-- DEBUG-VIEW START 4 APPPATH\Views\trackwise\layouts\app.php -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics — TRACKWISE</title>
+    <link rel="stylesheet" href="http://localhost:8000/trackwise/css/trackwise.css">
+</head>
+<body>
+    <div class="tw-sky-bg">
+        <!-- DEBUG-VIEW START 1 APPPATH\Views\trackwise\partials\clouds.php -->
+<div class="tw-clouds" aria-hidden="true">
+    <div class="tw-cloud tw-cloud-1"></div>
+    <div class="tw-cloud tw-cloud-2"></div>
+    <div class="tw-cloud tw-cloud-3"></div>
+    <div class="tw-cloud tw-cloud-4"></div>
+</div>
+
+<!-- DEBUG-VIEW ENDED 1 APPPATH\Views\trackwise\partials\clouds.php -->
+        <div class="tw-app-shell">
+            <!-- DEBUG-VIEW START 2 APPPATH\Views\trackwise\partials\sidebar.php -->
+<aside class="tw-sidebar">
+    <div class="tw-sidebar-brand">
+        <div class="tw-sidebar-logo">&#128218;</div>
+        <span>TRACKWISE</span>
+    </div>
+    <nav class="tw-sidebar-nav">
+        <a href="http://localhost:8000/trackwise/dashboard" class="">
+            <span class="tw-nav-ico">&#127968;</span> Dashboard
+        </a>
+        <a href="http://localhost:8000/trackwise/studylog" class="">
+            <span class="tw-nav-ico">&#128214;</span> Study Log
+        </a>
+        <a href="http://localhost:8000/trackwise/techniques" class="">
+            <span class="tw-nav-ico">&#9201;</span> Techniques
+        </a>
+        <a href="http://localhost:8000/trackwise/planner" class="">
+            <span class="tw-nav-ico">&#128197;</span> Planner
+        </a>
+        <a href="http://localhost:8000/trackwise/analytics" class="active">
+            <span class="tw-nav-ico">&#128200;</span> Analytics
+        </a>
+        <a href="http://localhost:8000/trackwise/goals" class="">
+            <span class="tw-nav-ico">&#127919;</span> Goals
+        </a>
+        <a href="http://localhost:8000/trackwise/notifications" class="">
+            <span class="tw-nav-ico">&#128276;</span> Notifications
+        </a>
+        <a href="http://localhost:8000/trackwise/profile" class="">
+            <span class="tw-nav-ico">&#128100;</span> Profile
+        </a>
+    </nav>
+    <div class="tw-sidebar-footer">
+        <div class="tw-sidebar-user">
+            <div class="tw-sidebar-avatar">JO</div>
+            <span>john12</span>
+        </div>
+        <a href="http://localhost:8000/trackwise/auth/logout" class="tw-sidebar-logout">Log Out</a>
+    </div>
+</aside>
+
+<!-- DEBUG-VIEW ENDED 2 APPPATH\Views\trackwise\partials\sidebar.php -->
+            <div class="tw-main">
+                <header class="tw-topbar">
+                    <h1 class="tw-topbar-title">Analytics</h1>
+                    <div class="tw-topbar-actions">
+                        <span class="tw-topbar-user">john12</span>
+                        <a href="http://localhost:8000/trackwise/auth/logout" class="tw-link">Log Out</a>
+                    </div>
+                </header>
+                <div class="tw-container">
+                    <div class="tw-page-header">
+    <h1>Analytics</h1>
+    <p>Study insights from your logged sessions</p>
+</div>
+
+<div class="tw-analytics-stat tw-grid-4">
+    <div class="tw-stat-box tw-stat-box-blue">
+        <span>Total Sessions</span>
+        <strong>1</strong>
+    </div>
+    <div class="tw-stat-box tw-stat-box-green">
+        <span>Study Hours</span>
+        <strong>1.3h</strong>
+    </div>
+    <div class="tw-stat-box tw-stat-box-orange">
+        <span>Day Streak</span>
+        <strong>1</strong>
+    </div>
+    <div class="tw-stat-box tw-stat-box-purple">
+        <span>Focus Progress</span>
+        <strong>65%</strong>
+    </div>
+</div>
+
+<div class="tw-grid-2 tw-analytics-grid">
+    <div class="tw-card">
+        <h3 class="tw-card-title-left">Study Hours — Last 7 Days</h3>
+                    <div class="tw-bar-chart">
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Mon</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Tue</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Wed</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Thu</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Fri</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:8%" title="0h"></div>
+                    <span class="tw-bar-label">Sat</span>
+                    <span class="tw-bar-value">0h</span>
+                </div>
+                                <div class="tw-bar-col">
+                    <div class="tw-bar" style="height:100%" title="1.3h"></div>
+                    <span class="tw-bar-label">Sun</span>
+                    <span class="tw-bar-value">1.3h</span>
+                </div>
+                            </div>
+            </div>
+
+    <div class="tw-card">
+        <h3 class="tw-card-title-left">Subject Breakdown</h3>
+                                <div class="tw-balance-item">
+                <div class="tw-balance-row">
+                    <span>Math</span>
+                    <span style="color:&#x23;e53935">1.3h (100%)</span>
+                </div>
+                <div class="tw-balance-bar">
+                    <div class="tw-progress-fill" style="width:100%;background:&#x23;e53935"></div>
+                </div>
+            </div>
+                        </div>
+</div>
+
+<div class="tw-card">
+    <h3 class="tw-card-title-left">Recent Sessions</h3>
+            <div class="tw-table-wrap">
+            <table class="tw-table">
+                <thead>
+                    <tr>
+                        <th>Subject</th>
+                        <th>Topic</th>
+                        <th>Duration</th>
+                        <th>Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                        <tr>
+                        <td>Math</td>
+                        <td>Algebra</td>
+                        <td>1h 20m</td>
+                        <td>May 31, 2026 3:24 AM</td>
+                    </tr>
+                                    </tbody>
+            </table>
+        </div>
+    </div>
+
+<div class="tw-focus-card">
+    <div class="tw-focus-header"><h3>Today's Focus</h3><span>&#128218;</span></div>
+    <p>Complete 2 hours of study time</p>
+    <div class="tw-progress-bar"><div class="tw-progress-fill" style="width:65%"></div></div>
+    <p class="tw-progress-text">1.3 / 2 hours (65%)</p>
+</div>
+                </div>
+            </div>
+        </div>
+        <!-- DEBUG-VIEW START 3 APPPATH\Views\trackwise\partials\bottom_nav.php -->
+<nav class="tw-bottom-nav">
+    <a href="http://localhost:8000/trackwise/dashboard" class="" title="Home">&#127968;</a>
+    <a href="http://localhost:8000/trackwise/notifications" class="" title="Notifications">&#128276;</a>
+    <a href="http://localhost:8000/trackwise/profile" class="" title="Profile">&#128100;</a>
+    <a href="http://localhost:8000/trackwise/analytics" class="active" title="Analytics">&#128200;</a>
+</nav>
+
+<!-- DEBUG-VIEW ENDED 3 APPPATH\Views\trackwise\partials\bottom_nav.php -->
+    </div>
+        </body>
+</html>
+
+<!-- DEBUG-VIEW ENDED 4 APPPATH\Views\trackwise\layouts\app.php -->
+
+<!-- DEBUG-VIEW ENDED 5 APPPATH\Views\trackwise\analytics\index.php -->
+";s:6:"status";i:200;s:6:"reason";s:2:"OK";}";}

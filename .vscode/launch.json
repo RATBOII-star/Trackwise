@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TRACKWISE (spark serve)",
+            "type": "php",
+            "request": "launch",
+            "runtimeArgs": [
+                "spark",
+                "serve",
+                "--host",
+                "localhost",
+                "--port",
+                "8080"
+            ],
+            "cwd": "${workspaceFolder}/codeigniter4-framework-e7753bc",
+            "port": 9003,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "http://localhost:8080",
+                "uriFormat": "http://localhost:8080/"
+            }
+        },
+        {
+            "name": "TRACKWISE (public folder)",
+            "type": "php",
+            "request": "launch",
+            "runtimeArgs": [
+                "-S",
+                "localhost:8080",
+                "-t",
+                "public"
+            ],
+            "cwd": "${workspaceFolder}/codeigniter4-framework-e7753bc",
+            "port": 9003,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "Development Server \\(http://localhost:([0-9]+)\\) started",
+                "uriFormat": "http://localhost:%s/"
+            }
+        }
+    ]
+}
