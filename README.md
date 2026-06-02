@@ -178,3 +178,10 @@ See full deployment details in `docs/DEPLOYMENT_LOG.md`.
 
 This repository contains a customized CodeIgniter distribution adapted for the TrackWise project.  
 Framework files are included; project-specific logic is primarily under `app/Controllers/Trackwise`, `app/Models/Trackwise`, and `app/Views/trackwise`.
+
+
+## Developers
+- John Vladimir L. Mones
+- John Ivan Valenzona
+- Marwen De Castro
+- Jaymar Froa
