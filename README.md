@@ -20,4 +20,4 @@ Overall, TrackWise serves as a comprehensive productivity companion that not onl
 ## 📈 Why TrackWise?
 
 > **Empowering learners through intelligence.** 
-> Unlike simple planners, TrackWise goes beyond organization by analyzing how you spend your time, giving you the self-discipline and accountability needed to adjust your strategies and succeed.
+> Unlike simple planners, TrackWise goes beyond organization by analyzing how you spend your time, giving you the self-discipline and accountability needed to adjust your strategies and succeed
