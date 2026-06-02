@@ -1,5 +1,23 @@
-TrackWise is an intelligent study management application designed to help students take full control of their academic life through structured planning and data-driven insights. It allows users to create personalized study schedules, set both short-term and long-term academic goals, and organize tasks in a way that aligns with their priorities and deadlines. The system also includes a built-in study session tracker that records the duration, frequency, and focus level of each session, enabling students to better understand how they spend their time.
+# TrackWise 📚✏️
 
-Beyond simple organization, TrackWise analyzes user behavior to generate meaningful insights into study habits, productivity patterns, and areas that may need improvement. By visualizing progress and performance trends, students can identify strengths, address weaknesses, and adjust their strategies accordingly. The application also promotes consistency and motivation through reminders, progress monitoring, and goal tracking features, helping users stay committed to their academic objectives.
+TrackWise is an intelligent study management application designed to help students take full control of their academic life through structured planning and data-driven insights. 
 
 Overall, TrackWise serves as a comprehensive productivity companion that not only helps students manage their workload efficiently but also encourages self-discipline, accountability, and continuous improvement. By combining organization tools with intelligent feedback, it empowers learners to maximize their potential and achieve better academic outcomes.
+
+---
+
+## 🚀 Key Features
+
+*   **Personalized Study Schedules:** Create custom timetables and organize tasks in a way that aligns with your unique priorities and deadlines.
+*   **Goal Setting:** Set and track both short-term milestones and long-term academic objectives.
+*   **Study Session Tracker:** Built-in tracker to record the duration, frequency, and focus level of every study session.
+*   **Data-Driven Insights:** Automatically analyzes your behavior to generate meaningful reports on study habits and productivity patterns.
+*   **Progress Visualization:** Identify your strengths and address weaknesses through intuitive progress charts and performance trends.
+*   **Motivation & Consistency:** Stay committed to your goals with smart reminders and active progress monitoring.
+
+---
+
+## 📈 Why TrackWise?
+
+> **Empowering learners through intelligence.** 
+> Unlike simple planners, TrackWise goes beyond organization by analyzing how you spend your time, giving you the self-discipline and accountability needed to adjust your strategies and succeed.
